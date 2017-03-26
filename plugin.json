@@ -1,12 +1,12 @@
 {
-    "ID":"bea2b844-125b-11e7-93ae-92361f002671",
+    "ID":"BEA2B844125B11E793AE92361F002671",
     "ActionKeyword":"myip",
     "Name":"MyIp",
-    "Description":"Get my ip",
+    "Description":"Plugin to get localhost IP",
     "Author":"Houxg",
-    "Version":"1.0",
+    "Version":"0.1.0",
     "Language":"python",
-    "Website":"",
+    "Website":"https://github.com/houxg/Wox-MyIp",
     "IcoPath":"Images\\app.png",
     "ExecuteFileName":"main.py"
 }

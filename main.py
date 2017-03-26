@@ -16,7 +16,7 @@ class HelloWorld(Wox):
                 results.append({
                 "Title": ip,
                 "SubTitle": "Copy to clipboard",
-                "IcoPath":"Images/app.ico",
+                "IcoPath":"Images/app.png",
                 'JsonRPCAction': {
                     'method': 'copyToClipboard',
                     'parameters': [ip],

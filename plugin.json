@@ -1,0 +1,12 @@
+{
+    "ID":"bea2b844-125b-11e7-93ae-92361f002671",
+    "ActionKeyword":"myip",
+    "Name":"MyIp",
+    "Description":"Get my ip",
+    "Author":"Houxg",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"",
+    "IcoPath":"Images\\app.png",
+    "ExecuteFileName":"main.py"
+}
